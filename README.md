@@ -1,6 +1,9 @@
 # SkewerBarrelScrewCollet
 An improved barrel retention collet for the Skewer by Charamile Designs.
 
+<img src="GHimages/CX_Skewer1.2p_Silly_Edits_v26.png" width="500">
+<img src="GHimages/20220425_200419.jpg" width="500">
+
 ## Description
 
 This still uses the 016 o-ring from the original Skewer collet, it just makes the barrels stay in way better, and makes barrels quick swappable.
@@ -36,4 +39,5 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
-<img src="GHimages/" width="500">
+<img src="GHimages/CX_Skewer1.2p_Silly_Edits_v26.png" width="500">
+<img src="GHimages/20220425_200419.jpg" width="500">
