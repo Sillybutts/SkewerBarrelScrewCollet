@@ -1,4 +1,5 @@
-#SkewerBarrelScrewCollet
+# SkewerBarrelScrewCollet
+An improved barrel retention collet for the Skewer by Charamile Designs.
 
 ## Description
 
